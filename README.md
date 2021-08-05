@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Amisha!](https://sureshmangs.netlify.app/) 
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Amisha!](https://kumariamisha.netlify.app/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishakumari544&label=Profile%20views&color=0e75b6&style=flat" alt="amishakumari544" /> </p>
 
@@ -11,8 +11,6 @@
 </br>
 
 <p align="left"> <a href="https://twitter.com/amishakumari544" target="blank"><img src="https://img.shields.io/twitter/follow/amishakumari544?logo=twitter&style=for-the-badge" alt="amishakumari544" /></a> </p>
-
-👨‍💻 All of my projects are available at **http://confused-coast.surge.sh/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
