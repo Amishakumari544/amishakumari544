@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amisha Kumari</h1>
-<h3 align="center">A Tech Girl from India</h3>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Suresh!](https://sureshmangs.netlify.app/) 
+
+### About Me 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishakumari544&label=Profile%20views&color=0e75b6&style=flat" alt="amishakumari544" /> </p>
 
