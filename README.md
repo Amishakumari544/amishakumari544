@@ -20,8 +20,6 @@
 <a href="https://twitter.com/amishakumari544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amishakumari544" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amisha kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amisha kumari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15484983/amisha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15484983/amisha" height="30" width="40" /></a>
-<a href="https://codesandbox.com/amishakumari544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="amishakumari544" height="30" width="40" /></a>
-<a href="https://medium.com/@amishakumari544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amishakumari544" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amishakumari544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amishakumari544" height="30" width="40" /></a>
-<a href="https://discord.gg/#6297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#6297" height="30" width="40" /></a>
+
+
 </p>
