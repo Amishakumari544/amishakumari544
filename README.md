@@ -33,7 +33,7 @@
 </h1>
 
 <a href="https://twitter.com/amishakumari544" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://linkedin.com/in/amisha kumari" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/amisha-kumari-936a37168/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <p align="left"> <a href="https://twitter.com/amishakumari544" target="blank"><img src="https://img.shields.io/twitter/follow/amishakumari544?logo=twitter&style=for-the-badge" alt="amishakumari544" /></a> </p>
