@@ -29,6 +29,8 @@
 ![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 <!-- ![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/-react-050A30?style=for-the-badge&logo=react&logoColor=Blue)
+![Golang](https://img.shields.io/badge/-golang-7EC8E3?style=for-the-badge&logo=go&logoColor=white)
 </h1>
 
 <a href="https://twitter.com/amishakumari544" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
