@@ -1,6 +1,5 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Amisha!](https://amishak.netlify.app/) 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishakumari544&label=Stalker%20Alert&color=0e75b6&style=flat" alt="amishakumari544" /> </p>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
@@ -9,15 +8,22 @@
 </p>
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors in Computer Science @Arka Jain University Jamshedpur.
+🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors in Computer Science @Arka Jain University Jamshedpur. |
 
 
 💻  I'm passionate about Web Dev, cloud & I enjoy learning new things.
 
 </br>
 
+### My Experiences 🙌
 
-## <🔩 ToolBox>  
+[Mentor-Cerdf](https://www.cerdf.org/) - I am helping NGO to provide free education from side and helping them to learn about coding.
+
+[Frontend Developer Intern-Musocial](https://musocial.in/) - Worked as a Frontend Developer and learn about React JS.
+
+[Frontend Developer Intern-Dachrs]() - Worked as a Frontend Developer and added Ecommerce Features in the user Panel and the Admin Panel using Material UI .
+
+## 🔩 ToolBox
 
 <h1 align = "center">
 
@@ -33,14 +39,29 @@
 ![Golang](https://img.shields.io/badge/-golang-7EC8E3?style=for-the-badge&logo=go&logoColor=white)
 </h1>
 
+
+![Amisha's github stats](https://github-readme-stats.vercel.app/api?username=amishakumari544&show_icons=true&hide_border=true)
+<br />
+
+
+
+
+<!-- BLOG-POST-LIST:START -->
+
+Blog:
+- [GIT Basics](https://amishakodes.hashnode.dev/git-commands-beginners-guide)
+
+
+<!-- BLOG-POST-LIST:END -->
+
+### Volunteer Experience 🚀
+[Campus Lead Community Classroom] - Helping my peers to get familiar with Open Source.
+
+<p align="left"> <a href="https://twitter.com/amishakumari544" target="blank"><img src="https://img.shields.io/twitter/follow/amishakumari544?logo=twitter&style=for-the-badge" alt="amishakumari544" /></a> </p>
+<h2 align="center">GitHub Streak !! :fire:</h2> 
+<p  align="center">
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishakumari544&)" alt="amisha" />
+</p>
 <a href="https://twitter.com/amishakumari544" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/amisha-kumari-936a37168/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<p align="left"> <a href="https://twitter.com/amishakumari544" target="blank"><img src="https://img.shields.io/twitter/follow/amishakumari544?logo=twitter&style=for-the-badge" alt="amishakumari544" /></a> </p>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-</p>
