@@ -40,10 +40,8 @@
 </h1>
 
 <h2 align="center">GitHub Streak !! :fire:</h2> 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amishakumari544&show_icons=true&theme=buefy" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amishakumari544&theme=buefy" />
-</p>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amishakumari544&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="amisha's github stats" /></a>  <a href="https://github.com/amishakumari544/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishakumari544&layout=compact&theme=buefy&hide_border=true" /></a> 
+
 
 
 
