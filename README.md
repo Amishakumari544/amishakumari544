@@ -39,10 +39,11 @@
 ![Golang](https://img.shields.io/badge/-golang-7EC8E3?style=for-the-badge&logo=go&logoColor=white)
 </h1>
 
-
-![Amisha's github stats](https://github-readme-stats.vercel.app/api?username=amishakumari544&show_icons=true&hide_border=true)
-<br />
-
+<h2 align="center">GitHub Streak !! :fire:</h2> 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amishakumari544&show_icons=true&theme=buefy" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amishakumari544&theme=buefy" />
+</p>
 
 
 
@@ -58,10 +59,8 @@ Blog:
 [Campus Lead Community Classroom] - Helping my peers to get familiar with Open Source.
 
 <p align="left"> <a href="https://twitter.com/amishakumari544" target="blank"><img src="https://img.shields.io/twitter/follow/amishakumari544?logo=twitter&style=for-the-badge" alt="amishakumari544" /></a> </p>
-<h2 align="center">GitHub Streak !! :fire:</h2> 
-<p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishakumari544&)" alt="amisha" />
-</p>
+
+
 <a href="https://twitter.com/amishakumari544" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/amisha-kumari-936a37168/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
