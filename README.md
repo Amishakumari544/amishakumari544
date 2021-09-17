@@ -16,14 +16,15 @@
 </br>
 
 ### My Experiences 🙌
+[Frontend Developer Intern - Hostocron](https://hostocron.com/) - Currently working here 👩🏼‍💻 
 
-[Mentor-Cerdf](https://www.cerdf.org/) - I am helping NGO to provide free education from side and helping them to learn about coding.
+[Mentor - Cerdf](https://www.cerdf.org/) - I am helping NGO to provide free education from side and helping them to learn about coding.
 
-[Frontend Developer Intern-Musocial](https://musocial.in/) - Worked as a Frontend Developer and learn about React JS.
+[Frontend Developer Intern - Musocial](https://musocial.in/) - Worked as a Frontend Developer and learn about React JS.
 
-[Frontend Developer Intern-Dachrs]() - Worked as a Frontend Developer and added Ecommerce Features in the user Panel and the Admin Panel using Material UI .
+[Frontend Developer Intern - Dachrs]() - Worked as a Frontend Developer and added Ecommerce Features in the user Panel and the Admin Panel using Material UI .
 
-## 🔩 ToolBox
+##  ToolBox 🔩
 
 <h1 align = "center">
 
