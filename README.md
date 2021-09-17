@@ -47,14 +47,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-Blog:
+### Blogs 📝
 - [GIT Basics](https://amishakodes.hashnode.dev/git-commands-beginners-guide)
 
+I am writing daily here from 17.09.21 🤓
+- [Js Challenge](https://amishakodes.hashnode.dev/digital-clock-in-javascript)
 
 <!-- BLOG-POST-LIST:END -->
 
 ### Volunteer Experience 🚀
-[Campus Lead Community Classroom] - Helping my peers to get familiar with Open Source.
+[Campus Lead Community Classroom] - Helping my peers to get familiar with Open Source. Core Team Member working on APP UI and Backend Development.
 
 <p align="left"> <a href="https://twitter.com/amishakumari544" target="blank"><img src="https://img.shields.io/twitter/follow/amishakumari544?logo=twitter&style=for-the-badge" alt="amishakumari544" /></a> </p>
 
