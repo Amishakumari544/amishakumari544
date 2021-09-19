@@ -1,11 +1,8 @@
 
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Amisha!](https://amishak.netlify.app/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishakumari544&label=Stalker%20Alert&color=0e75b6&style=flat" alt="amishakumari544" /> </p>
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
-</p>
+![git](https://user-images.githubusercontent.com/49230384/133918023-bb986f3a-7257-417b-92ab-4db493b5ddb2.gif)
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors in Computer Science @Arka Jain University Jamshedpur. |
@@ -17,6 +14,7 @@
 
 ### My Experiences 🙌
 [Frontend Developer Intern - Hostocron](https://hostocron.com/) - Currently working here 👩🏼‍💻 
+
 
 [Mentor - Cerdf](https://www.cerdf.org/) - I am helping NGO to provide free education from side and helping them to learn about coding.
 
@@ -48,13 +46,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-### Blogs 📝
+### Watch, read, and catch up on content: 📝
 - [GIT Basics](https://amishakodes.hashnode.dev/git-commands-beginners-guide)
 
 I am writing daily here from 17.09.21 🤓
 - [Js Challenge](https://amishakodes.hashnode.dev/digital-clock-in-javascript)
 
 <!-- BLOG-POST-LIST:END -->
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
 ### Volunteer Experience 🚀
 [Campus Lead Community Classroom] - Helping my peers to get familiar with Open Source. Core Team Member working on APP UI and Backend Development.
