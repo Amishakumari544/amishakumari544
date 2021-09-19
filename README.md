@@ -2,7 +2,7 @@
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Amisha!](https://amishak.netlify.app/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishakumari544&label=Stalker%20Alert&color=0e75b6&style=flat" alt="amishakumari544" /> </p>
 
-![git](https://user-images.githubusercontent.com/49230384/133918023-bb986f3a-7257-417b-92ab-4db493b5ddb2.gif)
+![amisha](https://user-images.githubusercontent.com/49230384/133918349-a04ce048-d154-4dc4-808f-e4440e96bd12.gif)
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors in Computer Science @Arka Jain University Jamshedpur. |
@@ -47,10 +47,10 @@
 <!-- BLOG-POST-LIST:START -->
 
 ### Watch, read, and catch up on content: 📝
-- [GIT Basics](https://amishakodes.hashnode.dev/git-commands-beginners-guide)
+- [GIT Basics](https://amishakodes.hashnode.dev/git-commands-beginners-guide) ✍🏻 📗
 
 I am writing daily here from 17.09.21 🤓
-- [Js Challenge](https://amishakodes.hashnode.dev/digital-clock-in-javascript)
+- [Js Challenge](https://amishakodes.hashnode.dev/digital-clock-in-javascript)📕
 
 <!-- BLOG-POST-LIST:END -->
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
