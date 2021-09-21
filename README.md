@@ -53,6 +53,7 @@
 I am writing daily here from 17.09.21 🤓
 - [Js Challenge](https://amishakodes.hashnode.dev/digital-clock-in-javascript)📕
 - [Quiz App ](https://amishakodes.hashnode.dev/day-2-quiz-app-in-javascript ) 📕
+- [Golang variables](https://amishakodes.hashnode.dev/golang-variables) 🍷
 <!-- BLOG-POST-LIST:END -->
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
