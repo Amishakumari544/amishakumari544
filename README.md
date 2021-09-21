@@ -13,7 +13,7 @@
 </br>
 
 ### My Experiences 🙌
-[Frontend Developer Intern - Hostocron](https://hostocron.com/) - Currently working here 👩🏼‍💻 
+[Frontend Developer Intern - Route](https://hostocron.com/) - Currently working here 👩🏼‍💻 
 
 
 [Mentor - Cerdf](https://www.cerdf.org/) - I am helping NGO to provide free education from side and helping them to learn about coding.
