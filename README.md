@@ -1,5 +1,5 @@
 
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Amisha!](https://amishak.netlify.app/) 
+## Hello!✌🏽, I'm [Amisha!](https://amishak.netlify.app/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishakumari544&label=Stalker%20Alert&color=0e75b6&style=flat" alt="amishakumari544" /> </p>
 
 ![amisha](https://user-images.githubusercontent.com/49230384/133918349-a04ce048-d154-4dc4-808f-e4440e96bd12.gif)
