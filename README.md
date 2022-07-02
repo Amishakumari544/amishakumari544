@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> Hello!✌🏽, I'm [Amisha!](https://amishakumari544-github-io.vercel.app/) 
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> Hello!✌🏽, I'm [Amisha!](https://devcover.me/preview/amishakumari544) 
 <br>
  I am a 👨‍💻 frontend developer, I'm passionated about web development and solving real world problems. I love creating open-source projects and contributing to the community.
 
