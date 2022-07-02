@@ -1,8 +1,23 @@
 # <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> Hello!✌🏽, I'm [Amisha!](https://amishakumari544-github-io.vercel.app/) 
 <br>
  I am a 👨‍💻 frontend developer, I'm passionated about web development and solving real world problems. I love creating open-source projects and contributing to the community.
+
+ 
 <br>
 
+## My writings:
+
+<b> Articles By </b> [me](https://takeuforward.org/?s=Amisha+kumari)✍️
+- Join the community where more than 1million+ people monthly read.
+
+### I'm open to:
+- Work oppurtunities
+- Developer advocacy oppurtunities & promotion oppurtunities
+- Collaborations to build something great
+
+
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/amishaatwts) |
+<a href="mailto:amishakumari544@gmail.com">amishakumari544@gmail.com<a></p>
 <!-- Stats -->
 <details><summary><b>My stats</b></summary><br>
 
