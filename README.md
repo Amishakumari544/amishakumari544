@@ -1,6 +1,6 @@
 # <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> Hello!✌🏽, I'm [Amisha!](https://my-awesome-portfolio-umber.vercel.app/) 
 <br>
- I am a 👨‍💻 frontend developer, I'm passionated about web development and solving real world problems. I love creating open-source projects and contributing to the community.
+ I am a 👨‍💻 frontend developer, I'm passionated about web development and solving real world problems. I love creating open-source projects and contributing to the community.Currently working as a Freelance Technical Writer at Scaler.
 
  
 <br>
@@ -14,6 +14,7 @@
 - Work oppurtunities
 - Developer advocacy oppurtunities & promotion oppurtunities
 - Collaborations to build something great
+- Technical Writing/Content Writing
 
 
 If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/amishaatwts) |
