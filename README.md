@@ -14,8 +14,10 @@
 
 ## My writings:
 
-<b> Articles By </b> [me](https://takeuforward.org/?s=Amisha+kumari)✍️
-- Join the community where more than 1million+ people monthly read.
+<b> Articles by me 📝 </b> 
+- [TUF](https://takeuforward.org/?s=Amisha+kumari)
+- [Context in golang](https://www.scaler.com/topics/golang-context/)
+- [Enum in golang](https://www.scaler.com/topics/golang-enum/)
 
 ### I'm open to:
 - Frontend Developer
