@@ -11,10 +11,11 @@
 - Join the community where more than 1million+ people monthly read.
 
 ### I'm open to:
-- Work oppurtunities
-- Developer advocacy oppurtunities & promotion oppurtunities
+- Frontend Developer
+- Software Developer
 - Collaborations to build something great
 - Technical Writing/Content Writing
+
 
 
 If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/amishaatwts) |
