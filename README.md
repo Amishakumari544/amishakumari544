@@ -18,6 +18,7 @@
 - [TUF](https://takeuforward.org/?s=Amisha+kumari)
 - [Context in golang](https://www.scaler.com/topics/golang-context/)
 - [Enum in golang](https://www.scaler.com/topics/golang-enum/)
+- [Break and Continue](https://www.scaler.com/topics/golang/break-and-continue/)
 
 ### I'm open to:
 - Frontend Developer
