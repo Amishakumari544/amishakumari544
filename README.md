@@ -9,9 +9,6 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amishakumari544&theme=github) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amishakumari544&theme=github) -->
 
- 
-<br>
-
 ## My writings:
 
 <b> Articles by me 📝 </b> 
@@ -21,6 +18,7 @@
 - [Break and Continue](https://www.scaler.com/topics/golang/break-and-continue/)
 - [Mercurial-vs-git](https://www.scaler.com/topics/mercurial-vs-git/)
 - [Golang-Viper](https://www.scaler.com/topics/golang-viper/)
+- [Golang-UUID](https://www.scaler.com/topics/golang-uuid/)
 
 ### I'm open to:
 - Frontend Developer
