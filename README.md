@@ -13,6 +13,7 @@
 
 <b> Recent Articles by me 📝 </b> 
 - [Context in golang](https://www.scaler.com/topics/golang-context/)
+- [Golang VS Python](https://www.scaler.com/topics/golang-vs-python/)
 - [Enum in golang](https://www.scaler.com/topics/golang-enum/)
 - [Break and Continue](https://www.scaler.com/topics/golang/break-and-continue/)
 - [Mercurial-vs-git](https://www.scaler.com/topics/mercurial-vs-git/)
