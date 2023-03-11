@@ -31,7 +31,7 @@
 - Twitter: https://twitter.com/amishaatwts/
 - Web: [https://amisha.is/](https://amishatech.vercel.app/)
 - Blog: [https://amisha.com/en/](https://amishakodes.hashnode.dev/)
-- Mail: amishakumari544@gmail.com
+- Mail: kumari.amisha.dev@gmail.com
 
 
 
