@@ -13,6 +13,8 @@
 ## My writings:
 
 <b> Recent Articles by me 📝 </b> 
+- [Generics in golang](https://www.scaler.com/topics/golang/generics-in-golang/)
+- [Reflect in golang](https://www.scaler.com/topics/golang/reflect-in-golang)
 - [Direction Channel](https://www.scaler.com/topics/golang/directional-channel-in-golang/)
 - [Context in golang](https://www.scaler.com/topics/golang-context/)
 - [Golang VS Python](https://www.scaler.com/topics/golang-vs-python/)
