@@ -23,6 +23,7 @@
 - [Mercurial-vs-git](https://www.scaler.com/topics/mercurial-vs-git/)
 - [Golang-Viper](https://www.scaler.com/topics/golang-viper/)
 - [Golang-UUID](https://www.scaler.com/topics/golang-uuid/)
+- [Workpool in Golang](https://www.scaler.com/topics/workerpool-in-golang)
 - [TUF](https://takeuforward.org/?s=Amisha+kumari)
 
 ### I'm open to:
